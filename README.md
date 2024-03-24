@@ -1,0 +1,1 @@
+Weather Application  - Showcase of HTML5, CSS, and JavaScript skills, utilizing Open Weather API for accurate weather data. Explore intuitive UI and dynamic data fetching in the code. Stay tuned for more projects and enhancements! 
