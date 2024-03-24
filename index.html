@@ -23,7 +23,12 @@ rel="stylesheet"/>
             <p class="tab" data-userWeather>Your Weather</p>
             <p class="tab" data-searchWeather>Search Weather</p>
         </div>
-
+   <!--error 404 content-->
+   <div class="sub-container api-error-container">
+    <img src="./assets/not-found.png" data-notFounding>
+    <P data-apiErrorText></P>
+    <button class="btn" data-ErrorBtn>Retry</button>
+  </div>
         <div class="weather-container">
 
             <!-- grant location container-->
@@ -41,7 +46,6 @@ rel="stylesheet"/>
                     <img src="./assets/search.png"  width="20" height="20" loading="lazy">
                 </button>
             </form>
-
             <!--- loading screen container -->
             <div class="sub-container loading-container">
                 <img src="./assets/loading.gif" width="150" height="150">
