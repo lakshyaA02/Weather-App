@@ -185,11 +185,11 @@ h1{
  
  @media (max-width: 640px) {
     .wrapper{
-        height: 200vh;
+        height: 150vh;
     }
     .parameter-container{
         flex-direction: column;
-    }
+    }s
     .tab-container{
         justify-content: space-around;
     }
